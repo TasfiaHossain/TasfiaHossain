@@ -18,7 +18,6 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>C++</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Figma</li>
 </ul>
 
 <hr size="0.1">  
@@ -31,6 +30,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>Oracle</li>
   <li>SQL Developer</li>
   <li>Jupyter Notebook</li> 
+  <li>Figma</li> 
 </ul>
 
 <hr size="0.1">  
