@@ -1,5 +1,8 @@
 ### 👋 Welcome Everyone! My name is Tasfia Hossain 👋
 
+<hr size="2" width="90%" color="white">  
+
+
 ![](coding.gif)
   
 
