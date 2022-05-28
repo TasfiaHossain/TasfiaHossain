@@ -1,11 +1,14 @@
-<hr>  ### 👋 Welcome Everyone! My name is Tasfia Hossain 👋 </hr>
+## 👋 Welcome Everyone! My name is Tasfia Hossain 👋 
 
 ![](coding.gif)
   
 
 I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. I have worked on front-end development, back-end development, UX/IU, data science, and database projects, and I strive to continue to explore what the Computer Science and STEM field have in store for me. It's exciting to be able to dive into these aspects of technology and showcase my creativity through the world of programming. 
   
-  
+
+<hr size="0.1">  
+
+
 ### 💻 Technical Skills:
 
 <ul>
@@ -16,6 +19,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>HTML & CSS</li>
 </ul>
 
+<hr size="0.1">  
 
 ### 🔒 Technologies:
 
@@ -27,6 +31,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>Jupyter Notebook</li> 
 </ul>
 
+<hr size="0.1">  
 
 ### 📌 About Me:
 
@@ -34,6 +39,8 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
 - 🔭 I’m currently working on constructing my personal website which could serve as my portfolio.
 - 🌱 I’m currently learning on improving my technical skills and languages so I can have that on lock.
 - ⚡ Fun fact: I love learning about new cultures and I am an avid basketball fan.
+
+<hr size="0.1">  
 
 ### 📞 Contact:
 
