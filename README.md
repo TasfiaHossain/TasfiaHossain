@@ -28,7 +28,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
 </ul>
 
 
-###📌 About Me:
+### 📌 About Me:
 
   
 - 🔭 I’m currently working on constructing my personal website which could serve as my portfolio.
