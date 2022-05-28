@@ -1,6 +1,6 @@
 ### Tasfia Hossain 👋
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/TasfiaHossain/TasfiaHossain/blob/main/ocean.gif))
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/TasfiaHossain/TasfiaHossain/blob/main/ocean.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
