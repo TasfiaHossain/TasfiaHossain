@@ -1,3 +1,5 @@
+<p align="center">
+
 ### 👋 Welcome Everyone! My name is Tasfia Hossain 👋
 
 ![](ocean.gif)
@@ -10,3 +12,4 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+</p>
