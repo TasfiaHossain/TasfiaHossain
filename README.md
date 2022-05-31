@@ -38,7 +38,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
 ### 📌 About Me:
 
   
-- 🔭 I’m currently working on constructing my personal website which could serve as my portfolio.
+- 🚧 I’m currently working on constructing my personal website which could serve as my portfolio.
 - 🌱 I’m currently learning on improving my technical skills and languages so I can have that on lock.
 - ⚡ Fun fact: I love learning about new cultures and I am an avid basketball fan.
 
