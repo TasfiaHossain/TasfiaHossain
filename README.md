@@ -31,6 +31,7 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>SQL Developer</li>
   <li>Jupyter Notebook</li> 
   <li>Figma</li> 
+  <li>AWS</li>
 </ul>
 
 <hr size="0.1">  
