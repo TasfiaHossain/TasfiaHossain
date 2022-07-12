@@ -16,6 +16,8 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
   <li>Python</li>
   <li>SQL</li>
   <li>C++</li>
+  <li>React</li>
+  <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
