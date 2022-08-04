@@ -3,7 +3,7 @@
 ![](coding.gif)
   
 
-I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. I have worked on front-end development, back-end development, UX/IU, data science, and database projects, and I strive to continue to explore what the Computer Science and STEM field have in store for me. It's exciting to be able to dive into these aspects of technology and showcase my creativity through the world of programming. 
+I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. I have worked on front-end development, back-end development, UX/UI, data science, and database projects, and I strive to continue to explore what the Computer Science and STEM field have in store for me. It's exciting to be able to dive into these aspects of technology and showcase my creativity through the world of programming. 
   
 
 <hr size="0.1">  
