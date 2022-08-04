@@ -29,8 +29,8 @@ I am a senior at Queens College and I am aspiring to be a Full-Stack Developer. 
 <ul>
   <li>Visual Studio Code</li>
   <li>Eclipse</li>
-  <li>Oracle</li>
-  <li>SQL Developer</li>
+  <li>mySQL</li>
+  <li>Oracle SQL Developer</li>
   <li>Jupyter Notebook</li> 
   <li>Figma</li> 
   <li>AWS</li>
