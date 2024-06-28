@@ -49,6 +49,6 @@ I am a recent graduate from Queens College and I am aspiring to be a Full-Stack 
 
 ### 📞 Contact:
 
-Feel free to reach out to me at my email: tasfiahossain@gmail.com
+Feel free to reach out to me at my email: tasfiahossain971@gmail.com
 
 
