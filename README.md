@@ -43,7 +43,7 @@ I am a recent graduate from Queens College and I am aspiring to be a Full-Stack 
   
 - 🚧 I’m currently working on constructing my personal website which could serve as my portfolio.
 - 🌱 I’m currently learning on improving my technical skills and languages so I can have that on lock.
-- ⚡ Fun fact: I love learning about new cultures and I am an avid basketball fan.
+- ⚡ Fun fact: I love learning about new cultures.
 
 <hr size="0.1">  
 
